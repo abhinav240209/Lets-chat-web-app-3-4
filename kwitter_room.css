@@ -1,0 +1,46 @@
+#body {
+    background: linear-gradient(#8e05a6, #dd58f5), #df74f2;
+    background-repeat: no-repeat;
+    height:650px;
+    
+}
+#user_name {
+    font-weight: bold;
+    }
+
+#room_name {
+    width:fit-content;
+    }
+#add_room {
+    background-color:red;
+    color:white;
+    height:35px;
+    border-radius: 20px;
+
+}
+
+#logout {
+    background-color:rgb(245, 27, 27);
+    width:100px;
+    height:75px;
+    font-size: large;
+}
+img {
+    width:100px;
+    height:100px;
+}
+
+#Room_names {
+    background-color: red;
+}
+
+#output {
+    background-color: rgb(77, 77, 209);
+    font-size:20px;
+    color:white;
+    margin-top:5px;
+}
+
+.input_div_message_page {
+    margin-top:250px;
+}

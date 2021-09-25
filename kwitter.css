@@ -1,0 +1,72 @@
+        #logo {
+            width: 125px;
+            height: 150px;
+        }
+        
+        body {
+            text-align: center;
+        }
+        
+        #welcome {
+            background-image: linear-gradient(#e107f5, #d895de, #e3a7e8);
+            height: 800px;
+            width: 1350px;
+        }
+        
+    
+        
+        #name {
+            font-family: "Lucida Console", "Courier New", monospace;
+        }
+        
+        p {
+            font-family: "Times New Roman", Times, serif;
+            font-size: 20px;
+        }
+        
+        h4 {
+            font-family: "Lucida Console", "Courier New", monospace;
+            margin-right: 1200px;
+
+            
+        }
+
+        h3 {
+            font-size:10px;
+        }
+
+        #left_part {
+            margin-right:0px;
+            padding:15px;
+            border:1px solid black;
+            display:table-cell;
+            background-color:teal;
+            color:whitesmoke;
+            
+        }
+
+        #right_part {
+            display:table-cell;
+            border:1px solid black;
+            width:200px;
+            padding:30px;
+            margin-top:200px;
+            background-color: whitesmoke;
+            
+        } 
+
+        #login_button {
+            float:right;
+
+        }
+
+        #main_div {
+            width:500px;
+            float:none;
+            height:400px;
+            display:table;
+            margin-top:100px;
+            box-shadow:5px 5px 10px royalblue;
+                }
+
+            
